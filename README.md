@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meriem-s
-- 👀 I’m interested in Python scripting and C++ development
+- 👀 I’m interested in Python and C++ development
 - 🌱 I’m currently learning JUCE C++ framework to develop my first C++ music plugin :D
 
 <!---
